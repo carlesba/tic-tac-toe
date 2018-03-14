@@ -1,0 +1,21 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel ./src/index.html"
+  },
+  "dependencies": {
+    "data.either": "^1.5.1",
+    "data.task": "^3.1.1",
+    "immutable": "^3.8.2",
+    "immutable-ext": "^1.1.2",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "styled-components": "^3.2.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.2"
+  }
+}
